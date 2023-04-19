@@ -8,6 +8,7 @@ Train the baseline model and other self-supervised models on ISLES2022 data.
 Compare the performance.
 
 ### Baseline model
-Unet
+UNETR
 ### Target models
 1. swinUnetR
+2. UNETR w/ SSL on ATLAS data
