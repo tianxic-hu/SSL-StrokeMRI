@@ -1,4 +1,4 @@
-# ISLES2022
+# Self-Supervised Learning for Stroke MRI Dataset
 
 ## Objective
 Evaluate the effect of self-supervised model on medical imaging data.
